@@ -70,6 +70,7 @@ export async function updateUser(clerkId: string, user: UpdateUserParams) {
 }
 
 // DELETE
+
 // export async function deleteUser(clerkId: string) {
 //   try {
 //     await connectToDatabase();
